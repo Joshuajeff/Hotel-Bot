@@ -1,0 +1,53 @@
+#let's create a bot for invited guest into a club
+access_list = ["Glory", "Love", "happiness", "Dayo", "isreal", "grace", "isabel", "glory", "love", "Grace", "Isreal", "dayo", "Happiness", "Isabel"]
+print(access_list)
+
+print("HELLO, WELCOME TO CRYSTAL NIGHTCLUB YOUR NUMBER ONE PLACE FOR ALL FUN ACTIVITIES!!!")
+name = input("Can We Know Your Name?\n")
+
+#check the list for invited guest
+if name == access_list[0] or name == access_list[1] or name == access_list[2] or name == access_list[3] or name == access_list[4] or name == access_list[5] or name == access_list[6] or name == access_list[7] or name == access_list[8] or name == access_list[9] or name == access_list[10] or name == access_list[11] or name == access_list[12] or name == access_list[13]:
+    print("YES")
+else:
+    exit("Your name Is not On our List")
+
+search_1 = input("Are you in the possession of a firearm?\n")
+search_2 = input("Are you in the possession of an illegal substance?\n")
+if search_1 == "Yes" and search_2 == "Yes":
+ exit("Sorry,you do not have access entry to CRYSTAL NIGHTCLUB")
+
+access_code = input("Enter your access pass\n")
+if access_code == str(12354):
+    print("Hi " + name + " access granted! welcome, welcome to CRYSTAL NIGHTCLUB.")
+else:
+     exit("Access pass denied")
+
+print("What section would you like?")
+section = input("Here is a list of the services we offer in each section\n1. VIP SECTION\n. live music\n. private chef\n. three bottles of champagne\n. access to a private lounge\n\n REGULAR SECTION\n. the Bar\n Which Would You Like To Go For?\n")
+if section == "VIP" or section == "vip" or section == "Vip":
+    print("A great choice " + name + " , welcome to the best section of the club")
+elif section == "Regular" or section == "regular" or section == "REGULAR":
+    exit("welcome," + name)
+
+order = input("")
+
+    
+#client wants to make payment for our services
+
+vip_section = input("Did you have a great time? " + name)
+vip_2 = input("How was the live music?")
+vip_3 = input("Did you enjoy the food and the reception?")
+if vip_section == "yes" and vip_2 == "great" and vip_3 == "yes":
+    print("We are glad you had a great time.")
+
+#price of each section
+if order == "vip" or order == "Vip":
+    price = 1500
+elif order == "regular" or order == "Regular":
+    price = 100
+
+
+total = price * order
+
+total_service = ("Thank you for clubbing with us, your total bill $ " + str(total))
+print("Do stop by another time.")

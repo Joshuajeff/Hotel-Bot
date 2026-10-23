@@ -1,0 +1,327 @@
+
+        Receipt, Order
+        Name, Joshua Kelechi 
+        Room, Executive Room 
+        Room Duration, 7
+        Room Cost W discount, 0 
+        Room Cost WO discount, 4900000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0
+        Receipt, Order
+        Name, Joshua Kelechi 
+        Room, Presidential Suite 
+        Room Duration, 7
+        Room Cost W discount, 0 
+        Room Cost WO discount, 8400000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0
+        Receipt, Order
+        Name, Joshua Kelechi 
+        Room, Executive Room 
+        Room Duration, 5
+        Room Cost W discount, 0 
+        Room Cost WO discount, 3500000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0
+        Receipt, Order
+        Name, Joshua Kelechi 
+        Room, Presidential Suite 
+        Room Duration, 8
+        Room Cost W discount, 9480000.0 
+        Room Cost WO discount,  
+        Companion, No
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0
+        Receipt, Order
+        Name, Joshua Kelechi 
+        Room, Presidential Suite 
+        Room Duration, 8
+        Room Cost W discount, 9480000.0 
+        Room Cost WO discount,  
+        Companion, No
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order, Yam Porridge 
+        Rice order,  
+        Rice Portion,  
+        Protein Order,Cat Fish 
+        Protein portion, 2 
+        Drink order,  
+        Drink input,Water 
+        Drink Portion,  
+        Water Order,  
+        Water Input, Big Size
+        Total, 9490000.0
+                Receipt, Order
+                Name, Joshua Kelechi 
+                Room, Presidential Suite 
+                Room Duration, 2
+                Room Cost W discount, 9480000.0 
+                Room Cost WO discount, 2400000 
+                Companion, No
+                Com_Spec, 
+                Soup Order, 
+                Soup portion,  
+                Swallow Choice, 
+                Swallow portion, 
+                Menu Order, Yam Porridge 
+                Rice order,  
+                Rice Portion,  
+                Protein Order,Cat Fish 
+                Protein portion, 2 
+                Drink order,  
+                Drink input,Water 
+                Drink Portion,  
+                Water Order,  
+                Water Input, Big Size
+                Total, 9490000.0
+        Receipt, Order
+        Name, Adunola Titi 
+        Room, Presidential Suite 
+        Room Duration, 6
+        Room Cost W discount, 0 
+        Room Cost WO discount, 7200000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0 Receipt, Order Name, John ballen Room, Presidential Suite 
+        Room Duration, 6 Room Cost W discount, 0 Room Cost WO discount, 7200000 
+        Companion,  Com_Spec,  Soup Order, Soup portion,  
+        Swallow Choice,  Swallow portion, Menu Order,  
+        Rice order,  Rice Portion,  Protein Order, 
+        Protein portion,  Drink order,  Drink input, 
+        Drink Portion,  Water Order,  Water Input, Total, 0
+                Receipt, Order
+                Name, Jane blessing 
+                Room, Executive Room 
+                Room Duration, 7
+                Room Cost W discount, 0 
+                Room Cost WO discount, 4900000 
+                Companion, 
+                Com_Spec, 
+                Soup Order, 
+                Soup portion,  
+                Swallow Choice, 
+                Swallow portion, 
+                Menu Order, Rice 
+                Rice order, Ofada Rice 
+                Rice Portion,  
+                Protein Order,Turkey 
+                Protein portion, 2 
+                Drink order,  
+                Drink input,Coke 
+                Drink Portion, 1 
+                Water Order,  
+                Water Input, 
+                Total, 16000
+                Receipt, Order 
+                Room, 0 
+                Room Duration, 0
+                Room Cost W discount, 0 
+                Room Cost WO discount, 0 
+                Companion, 0
+                Com_Spec, 0
+                Soup Order, 0
+                Soup portion, 0 
+                Swallow Choice, 0
+                Swallow portion, 0
+                Menu Order, 0 
+                Rice order, 0 
+                Rice Portion, 0 
+                Protein Order,0 
+                Protein portion, 0 
+                Drink order, 0 
+                Drink input,0 
+                Drink Portion, 0 
+                Water Order, 0 
+                Water Input, 0
+                Total, 0
+        Receipt, Order
+        Name, Muspley Samson 
+        Room, Executive Room 
+        Room Duration, 4
+        Room Cost W discount, 0 
+        Room Cost WO discount, 2800000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0
+        Receipt, Order
+        Name, Happiness Braimoh 
+        Room, Presidential Suite 
+        Room Duration, 3
+        Room Cost W discount, 0 
+        Room Cost WO discount, 3600000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order,  
+        Rice order,  
+        Rice Portion,  
+        Protein Order, 
+        Protein portion,  
+        Drink order,  
+        Drink input, 
+        Drink Portion,  
+        Water Order,  
+        Water Input, 
+        Total, 0
+        Receipt, Order
+        Name, Adunola Titi 
+        Room, Deluxe Room 
+        Room Duration, 4
+        Room Cost W discount, 0 
+        Room Cost WO discount, 1800000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order, Spaghetti 
+        Rice order,  
+        Rice Portion,  
+        Protein Order,Turkey 
+        Protein portion, 2 
+        Drink order,  
+        Drink input,Fanta 
+        Drink Portion, 2 
+        Water Order,  
+        Water Input, 
+        Total, 15000
+        Receipt, Order
+        Name, Joshua Kelechi 
+        Room, Executive Room 
+        Room Duration, 4
+        Room Cost W discount, 0 
+        Room Cost WO discount, 2800000 
+        Companion, 
+        Com_Spec, 
+        Soup Order, 
+        Soup portion,  
+        Swallow Choice, 
+        Swallow portion, 
+        Menu Order, Spaghetti 
+        Rice order,  
+        Rice Portion,  
+        Protein Order,Turkey 
+        Protein portion, 2 
+        Drink order,  
+        Drink input,Fanta 
+        Drink Portion, 2 
+        Water Order,  
+        Water Input, 
+        Total, 15000Receipt,Order
+Name,Muspley Samson
+Room,Presidential Suite
+Room Duration,3
+Room Cost W discount,0
+Room Cost WO discount,3600000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Yam Porridge
+Rice order,
+Rice Portion,
+Protein Order,Crocker
+Protein portion,2
+Drink order,
+Drink input,Coke
+Drink Portion,2
+Water Order,
+Water Input,
+Total,11000

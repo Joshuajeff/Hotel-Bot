@@ -1,0 +1,608 @@
+Receipt,Order
+Room,0
+Room Duration,0
+Room Cost W discount,0
+Room Cost WO discount,0
+Companion,0
+Com_Spec,0
+Soup Order,0
+Soup portion,0
+Swallow Choice,0
+Swallow portion,0
+Menu Order,0
+Rice order,0
+Rice Portion,0
+Protein Order,0
+Protein portion,0
+Drink order,0
+Drink input,0
+Drink Portion,0
+Water Order,0
+Water Input,0
+Total,0Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,3
+Room Cost W discount,0
+Room Cost WO discount,3600000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Spaghetti
+Rice order,
+Rice Portion,
+Protein Order,Turkey
+Protein portion,2
+Drink order,
+Drink input,Coke
+Drink Portion,2
+Water Order,
+Water Input,
+Total,15000Receipt,Order
+Name,Happiness Braimoh
+Room,Presidential Suite
+Room Duration,2
+Room Cost W discount,0
+Room Cost WO discount,2400000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Spaghetti
+Rice order,
+Rice Portion,
+Protein Order,Cat Fish
+Protein portion,3
+Drink order,
+Drink input,Malt
+Drink Portion,3
+Water Order,
+Water Input,
+Total,22500Receipt,Order
+Name,Adunola Titi
+Room,Presidential Suite
+Room Duration,7
+Room Cost W discount,0
+Room Cost WO discount,8400000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Spaghetti
+Rice order,
+Rice Portion,
+Protein Order,Turkey
+Protein portion,2
+Drink order,
+Drink input,Fanta
+Drink Portion,2
+Water Order,
+Water Input,
+Total,18000Receipt,Order
+Name,Joshua Kelechi
+Room,Executive Room
+Room Duration,2
+Room Cost W discount,0
+Room Cost WO discount,1400000
+Companion,
+Com_Spec,
+Soup Order,Equsi
+Soup portion,2
+Swallow Choice,Fufu
+Swallow portion,2
+Menu Order,Soup
+Rice order,
+Rice Portion,
+Protein Order,Chicken
+Protein portion,3
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Big Size
+Total,8740Receipt,Order
+Name,Joshua Kelechi
+Room,Executive Room
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,3500000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Rice order,white Rice and stew
+Rice Portion,
+Protein Order,Turkey
+Protein portion,2
+Drink order,
+Drink input,Grand Malt
+Drink Portion,2
+Water Order,
+Water Input,
+Total,16500Receipt,Order
+Name,Happiness Braimoh
+Room,Presidential Suite
+Room Duration,4
+Room Cost W discount,0
+Room Cost WO discount,4800000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Rice order,white Rice and sauce
+Rice Portion,
+Protein Order,Turkey
+Protein portion,2
+Drink order,
+Drink input,Grand Malt
+Drink Portion,2
+Water Order,
+Water Input,
+Total,16500Receipt,Order
+        Name,Sam wanaemi
+        Room,Presidential Suite
+        Room Duration,9
+        Room Cost W discount,10680000.0
+        Room Cost WO discount,
+        Companion,Yes
+        Com_Spec,big breast
+        Soup Order,
+        Soup portion,
+        Swallow Choice,
+        Swallow portion,
+        Menu Order,8
+        Rice order,
+        Rice Portion,
+        Protein Order,Chicken
+        Protein portion,12
+        Drink order,
+        Drink input,Water
+        Drink Portion,
+        Water Order,
+        Water Input,Big Size
+        Total,10722000.0Receipt,Order
+Name,Sam wanaemi
+Room,Executive Room
+Room Duration,6
+Room Cost W discount,10680000.0
+Room Cost WO discount,4200000
+Companion,Yes
+Com_Spec,big breast
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Rice order,Ofada Rice
+Rice Portion,
+Protein Order,Turkey
+Protein portion,2
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Small Size
+Total,10694000.0Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,6000000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Yam Porridge
+Rice order,
+Rice Portion,
+Protein Order,Crocker
+Protein portion,2
+Drink order,
+Drink input,Malta Guiness
+Drink Portion,2
+Water Order,
+Water Input,
+Total,12500Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,3
+Room Cost W discount,0
+Room Cost WO discount,3600000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Pizza
+Pizza Order. 
+pizza Portion 4
+Rice order,
+Rice Portion,
+Protein Order,
+Protein portion,
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Small Size
+Total,2000Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,6000000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Pizza
+Pizza Order. 
+pizza Portion 3
+Rice order,
+Rice Portion,
+Protein Order,
+Protein portion,
+Drink order,
+Drink input,Fanta
+Drink Portion,2
+Water Order,
+Water Input,
+Total,4000Receipt,Order
+Name,Joshua Kelechi
+Room,Executive Room
+Room Duration,8
+Room Cost W discount,5530000.0
+Room Cost WO discount,
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Rice order,Ofada Rice
+Rice Portion,
+Protein Order,Cat Fish
+Protein portion,2
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Big Size
+Total,5548000.0Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,9
+Room Cost W discount,10680000.0
+Room Cost WO discount,
+Companion,Yes
+Com_Spec,big bwest
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Pizza
+Rice order,
+Rice Portion,
+Protein Order,Turkey
+Protein portion,3
+Drink order,
+Drink input,Malta Guiness
+Drink Portion,2
+Water Order,
+Water Input,
+Total, N10703500.0Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,9
+Room Cost W discount,10680000.0
+Room Cost WO discount,
+Companion,Yes
+Com_Spec,big bwest
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Plantain
+Rice order,
+Rice Portion,
+Protein Order,Turkey
+Protein portion,1
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Small Size
+Total, N10687500.0Receipt,Order
+Name,Joshua Kelechi
+Room,Executive Room
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,3500000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Rice order,Coconut Rice
+Rice Portion,
+Protein Order,Crocker
+Protein portion,2
+Drink order,
+Drink input,Grand Malt
+Drink Portion,3
+Water Order,
+Water Input,
+Total,19000Receipt,Order
+Name,Joshua Kelechi
+Room,Executive Room
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,3500000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Pizza
+Rice order,
+Rice Portion,
+Protein Order,Chicken
+Protein portion,3
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Small Size of water
+Total,14500Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,6000000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Rice order,Coconut Rice
+Rice Portion,
+Protein Order,Cat Fish
+Protein portion,4
+Drink order,
+Drink input,Fanta
+Drink Portion,1
+Water Order,
+Water Input,
+Total,0Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,4
+Room Cost W discount,0
+Room Cost WO discount,4800000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Spaghetti
+Rice order,
+Rice Portion,
+Protein Order,Crocker
+Protein portion,2
+Drink order,
+Drink input,Fanta
+Drink Portion,2
+Water Order,
+Water Input,
+Total,0Receipt,Order
+Name,Joshua Kelechi
+Room,Presidential Suite
+Room Duration,5
+Room Cost W discount,0
+Room Cost WO discount,6000000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Yam Porridge
+Rice order,
+Rice Portion,
+Protein Order,Cat Fish
+Protein portion,2
+Drink order,
+Drink input,Coke
+Drink Portion,1
+Water Order,
+Water Input,
+Total,13000Receipt,Order
+        Name,Joshua Kelechi
+        Room,Presidential Suite
+        Room Duration,8
+        Room Cost W discount,9480000.0
+        Room Cost WO discount,6000000
+        Companion,Yes
+        Com_Spec,Big Nyash and Soft breast with Fair nipple
+        Soup Order,
+        Soup portion,
+        Swallow Choice,
+        Swallow portion,
+        Menu Order,Rice
+        Rice order,Coconut Rice
+        Rice Portion,
+        Protein Order,Chicken
+        Protein portion,2
+        Drink order,
+        Drink input,Water
+        Drink Portion,1
+        Water Order,
+        Water Input,Big Size of water
+        Total,9499000.0Receipt,Order
+        Name,Mba ogochukwu micheal
+        Room,Presidential Suite
+        Room Duration,8
+        Room Cost W discount,9480000.0
+        Room Cost WO discount,
+        Companion,Yes
+        Com_Spec,Big Nyash, Big breast with Fair Nipple
+        Soup Order,Equsi
+        Soup portion,2
+        Swallow Choice,Fufu
+        Swallow portion,5
+        Menu Order,Soup
+        Rice order,
+        Rice Portion,
+        Protein Order,Turkey
+        Protein portion,2
+        Drink order,
+        Drink input,Water
+        Drink Portion,
+        Water Order,
+        Water Input,Big Size of water
+        Total,9489600.0Receipt,Order
+Name, Sir Joshua
+Room,Presidential Suite
+Room Duration,8
+Room Cost W discount,9480000.0
+Room Cost WO discount,
+Companion,Yes
+Com_Spec,Pink Nipple and soft ass
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Abacha
+Pizza Order. 
+pizza Portion 
+Rice order,
+Rice Portion,
+Protein Order,Turkey
+Protein portion,1
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Big Size
+Total,9487500.0Receipt,Order
+Name, Sir Joshua
+Room,Presidential Suite
+Room Duration,9
+Room Cost W discount,10680000.0
+Room Cost WO discount,
+Companion,Yes
+Com_Spec,Medium Nyash and boobs, preferably light skinned
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Rice
+Pizza Order. 
+pizza Portion 
+Rice order,white Rice and stew
+Rice Portion,
+Protein Order,Cat Fish
+Protein portion,1
+Drink order,
+Drink input,Sprite
+Drink Portion,1
+Water Order,
+Water Input,
+Total,10689500.0Receipt,Order
+Name, Sir Joshua
+Room,Presidential Suite
+Room Duration,9
+Room Cost W discount,10680000.0
+Room Cost WO discount,
+Companion,Yes
+Com_Spec,medium nyash and breast
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,
+Pizza Order. 
+pizza Portion 
+Rice order,
+Rice Portion,
+Protein Order,
+Protein portion,
+Drink order,
+Drink input,Beta Malt
+Drink Portion,1
+Water Order,
+Water Input,
+Total,10682000.0Receipt,Order
+Name, Sir Joshua
+Room,Executive Room
+Room Duration,6
+Room Cost W discount,10680000.0
+Room Cost WO discount,4200000
+Companion,Yes
+Com_Spec,medium nyash and breast
+Soup Order,Oha
+Soup portion,1
+Swallow Choice,Fufu
+Swallow portion,3
+Menu Order,Soup
+Pizza Order. 
+pizza Portion 
+Rice order,
+Rice Portion,
+Protein Order,Chicken
+Protein portion,1
+Drink order,
+Drink input,Malta Guiness
+Drink Portion,2
+Water Order,
+Water Input,
+Total,10686860.0Receipt,Order
+Name, Sir Joshua
+Room,Standard Room
+Room Duration,4
+Room Cost W discount,0
+Room Cost WO discount,1000000
+Companion,
+Com_Spec,
+Soup Order,
+Soup portion,
+Swallow Choice,
+Swallow portion,
+Menu Order,Pizza
+Pizza Order. 
+pizza Portion 1
+Rice order,
+Rice Portion,
+Protein Order,
+Protein portion,
+Drink order,
+Drink input,Water
+Drink Portion,
+Water Order,
+Water Input,Medium Size
+Total,1500
